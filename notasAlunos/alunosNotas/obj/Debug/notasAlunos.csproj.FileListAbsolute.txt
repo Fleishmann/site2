@@ -1,0 +1,7 @@
+C:\Users\etec\Desktop\notasAlunos\notasAlunos\bin\Debug\notasAlunos.exe.config
+C:\Users\etec\Desktop\notasAlunos\notasAlunos\bin\Debug\notasAlunos.exe
+C:\Users\etec\Desktop\notasAlunos\notasAlunos\bin\Debug\notasAlunos.pdb
+C:\Users\etec\Desktop\notasAlunos\notasAlunos\obj\Debug\notasAlunos.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\notasAlunos\notasAlunos\obj\Debug\notasAlunos.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\notasAlunos\notasAlunos\obj\Debug\notasAlunos.exe
+C:\Users\etec\Desktop\notasAlunos\notasAlunos\obj\Debug\notasAlunos.pdb
